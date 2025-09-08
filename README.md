@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit shen</h1>
+<h1 align="center">Hi 👋, I'm Priyanshi Gautam</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitshen&label=Profile%20views&color=0e75b6&style=flat" alt="amitshen" /> </p>
